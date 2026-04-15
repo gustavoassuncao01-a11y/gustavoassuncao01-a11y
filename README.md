@@ -1,4 +1,4 @@
-h## Olá, eu sou Gustavo!
+## Olá, eu sou Gustavo!
 
 Estou construindo minha base em ciência de dados por meio de estudos consistentes e projetos práticos, com um objetivo claro: entender como dados, análises e modelos podem contribuir para a evolução de um PMO mais analítico e preditivo.
 
